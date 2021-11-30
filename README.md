@@ -4,6 +4,7 @@ Understanding SQL and the theory behind data bases was the beginning of my new p
 
 
 My first project paved the way to understand the fundaments of relational data bases and start developing queries. In this project I created a relational schema and dependency diagram and more importantly grasp normalization. 
+https://1drv.ms/w/s!AqWIgPdfPBHxm138_A9-OKKqbrCX?e=lqytjn
 
 Project 2 shows data exploration as well as a combination of queries whose objective is to answer common questions. I used a database provided by the Book in order to test my skills. 
 
