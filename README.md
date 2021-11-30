@@ -7,8 +7,6 @@ My first project paved the way to understand the fundaments of relational data b
 
 Project 2 shows data exploration as well as a combination of queries whose objective is to answer common questions. I used a database provided by the Book in order to test my skills. 
 
-https://github.com/CarlosRibadeneira/SQL_Projects/edit/main/README.md
-
 In Project 3 I tested my skills carrying out more challenging problems. The database used was for a Pet Shop company.
 
 In Project 4 I develop knowledge about creating and altering tables. I made sure to include specific criteria when altering the tables. This database comes from a construction company. 
