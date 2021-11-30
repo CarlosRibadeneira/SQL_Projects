@@ -1,7 +1,8 @@
-/* Database Systems, Coronel/Morris */
-/* Type of SQL : SQL Server */
 
---ASSIGNMENT 6 
+--Project 3
+
+--Create and Alter Tables
+
 --Carlos Ribadeneira 
 
 --Construction Company
